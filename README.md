@@ -1,4 +1,4 @@
-# Projeto Base de Conhecimento - Imersão Alura Web
+# Projeto Base de Conhecimento - Imersão Alura Web Gemini
 
 Este é um projeto desenvolvido durante a **Imersão Web da Alura**. A aplicação consiste em uma página web que exibe uma coleção de cards com informações sobre diversos temas, como tecnologia, cultura pop e esportes. Os dados são carregados dinamicamente a partir de arquivos JSON.
 
