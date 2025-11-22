@@ -37,7 +37,9 @@ A estrutura de arquivos do projeto está organizada da seguinte forma:
 
 Para visualizar o projeto em seu navegador, siga os passos abaixo:
 
-<p>Opção 1:</p>
+Opção 1:
+1.  Clone ou faça o download deste repositório em sua máquina local.
+
 1.  Clique no link do <a href="https://a-r-soares.github.io/imersao-dev-gemini-ars/index.html" target="_blank">Projeto Base de Conhecimento</a>
 
 Opção 2:
