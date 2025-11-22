@@ -39,8 +39,8 @@ Para visualizar o projeto em seu navegador, siga os passos abaixo:
 
 Opção 1:
 1.  Clone ou faça o download deste repositório em sua máquina local.
-
-1.  Clique no link do <a href="https://a-r-soares.github.io/imersao-dev-gemini-ars/index.html" target="_blank">Projeto Base de Conhecimento</a>
+2.  Nalique no link do <a href="https://a-r-soares.github.io/imersao-dev-gemini-ars/index.html" target="_blank">Projeto Base de Conhecimento</a>.
+3.  x 
 
 Opção 2:
 1.  Clone ou faça o download deste repositório em sua máquina local.
