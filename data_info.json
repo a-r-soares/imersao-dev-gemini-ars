@@ -1,0 +1,192 @@
+[
+  {
+    "titulo": "TypeScript",
+    "descricao": "Superset sintático de JavaScript que adiciona tipagem estática opcional, amplamente utilizado em grandes projetos web.",
+    "subtitulo": "2012",
+    "link": "https://www.typescriptlang.org",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "tipagem estática",
+      "Microsoft"
+    ]
+  },
+  {
+    "titulo": "Rust",
+    "descricao": "Linguagem focada em performance e segurança de memória, ideal para sistemas operacionais, web services e embarcados.",
+    "subtitulo": "2010",
+    "link": "https://www.rust-lang.org",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "segurança",
+      "alta performance"
+    ]
+  },
+  {
+    "titulo": "Go",
+    "descricao": "Linguagem de programação compilada e eficiente, desenvolvida pelo Google, otimizada para concorrência e microsserviços.",
+    "subtitulo": "2009",
+    "link": "https://go.dev",
+    "tags": ["linguagem de programação", "backend", "concorrência", "Google"]
+  },
+  {
+    "titulo": "Kotlin",
+    "descricao": "Linguagem moderna e pragmática que roda na JVM, popular para desenvolvimento Android e aplicações backend empresariais.",
+    "subtitulo": "2011",
+    "link": "https://kotlinlang.org",
+    "tags": ["linguagem de programação", "Android", "JVM", "backend"]
+  },
+  {
+    "titulo": "Swift",
+    "descricao": "Linguagem poderosa e intuitiva da Apple para construir apps para iOS, macOS e outras plataformas da empresa.",
+    "subtitulo": "2014",
+    "link": "https://www.swift.org",
+    "tags": ["linguagem de programação", "mobile", "Apple", "iOS"]
+  },
+  {
+    "titulo": "React Native",
+    "descricao": "Framework para desenvolvimento mobile que permite construir aplicações nativas usando React e código compartilhado.",
+    "subtitulo": "2015",
+    "link": "https://reactnative.dev",
+    "tags": ["framework", "mobile", "cross-platform", "Meta"]
+  },
+  {
+    "titulo": "Next.js",
+    "descricao": "Framework React para produção que oferece renderização híbrida estática e do lado do servidor (SSR), e roteamento eficiente.",
+    "subtitulo": "2016",
+    "link": "https://nextjs.org",
+    "tags": ["framework", "frontend", "SSR", "Vercel"]
+  },
+  {
+    "titulo": "Svelte",
+    "descricao": "Compilador que transforma código declarativo em JavaScript imperativo, resultando em menor sobrecarga de runtime.",
+    "subtitulo": "2016",
+    "link": "https://svelte.dev",
+    "tags": ["framework", "frontend", "compilador", "leve"]
+  },
+  {
+    "titulo": "Vue.js",
+    "descricao": "Framework progressivo para construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e flexibilidade.",
+    "subtitulo": "2014",
+    "link": "https://vuejs.org",
+    "tags": ["framework", "frontend", "SPA", "comunidade"]
+  },
+  {
+    "titulo": "Docker",
+    "descricao": "Plataforma que utiliza contêineres para empacotar aplicações e dependências, garantindo ambientes consistentes.",
+    "subtitulo": "2013",
+    "link": "https://www.docker.com",
+    "tags": ["contêinerização", "DevOps", "virtualização", "tooling"]
+  },
+  {
+    "titulo": "Kubernetes (K8s)",
+    "descricao": "Sistema open-source para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "subtitulo": "2014",
+    "link": "https://kubernetes.io",
+    "tags": ["orquestração", "DevOps", "cloud", "Google"]
+  },
+  {
+    "titulo": "Terraform",
+    "descricao": "Ferramenta de Infrastructure as Code (IaC) que permite provisionar e gerenciar infraestrutura em diversas nuvens (multi-cloud).",
+    "subtitulo": "2014",
+    "link": "https://www.terraform.io",
+    "tags": ["IaC", "DevOps", "provisionamento", "HashiCorp"]
+  },
+  {
+    "titulo": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados relacional (RDBMS) open source, conhecido por sua robustez e extensibilidade.",
+    "subtitulo": "1996",
+    "link": "https://www.postgresql.org",
+    "tags": ["banco de dados", "relacional", "SQL", "open source"]
+  },
+  {
+    "titulo": "MongoDB",
+    "descricao": "Banco de dados NoSQL baseado em documentos (BSON), conhecido por sua flexibilidade e esquema dinâmico.",
+    "subtitulo": "2009",
+    "link": "https://www.mongodb.com",
+    "tags": ["banco de dados", "NoSQL", "documentos", "escalabilidade"]
+  },
+  {
+    "titulo": "Redis",
+    "descricao": "Armazenamento de estrutura de dados em memória, frequentemente usado como cache, broker de mensagens ou banco de dados de sessão.",
+    "subtitulo": "2009",
+    "link": "https://redis.io",
+    "tags": ["banco de dados", "cache", "in-memory", "baixa latência"]
+  },
+  {
+    "titulo": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, permitindo que clientes solicitem apenas os dados necessários.",
+    "subtitulo": "2015",
+    "link": "https://graphql.org",
+    "tags": ["API", "linguagem de consulta", "backend", "protocolo"]
+  },
+  {
+    "titulo": "Apache Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída e tolerante a falhas, usada para pipelines de dados em tempo real.",
+    "subtitulo": "2011",
+    "link": "https://kafka.apache.org",
+    "tags": ["streaming", "messaging", "big data", "backend"]
+  },
+  {
+    "titulo": "FastAPI",
+    "descricao": "Framework web moderno e rápido para construção de APIs usando tipagem, documentação automática e alto desempenho.",
+    "subtitulo": "2018",
+    "link": "https://fastapi.tiangolo.com",
+    "tags": ["framework", "backend", "APIs", "assíncrono"]
+  },
+  {
+    "titulo": "Phoenix",
+    "descricao": "Framework web que roda na linguagem Elixir (Erlang VM), conhecido por seu alto desempenho, concorrência e tempo real (via Channels).",
+    "subtitulo": "2014",
+    "link": "https://www.phoenixframework.org",
+    "tags": ["framework", "backend", "Elixir", "concorrência"]
+  },
+  {
+    "titulo": "WebAssembly (Wasm)",
+    "descricao": "Formato de instrução binária de baixo nível, projetado para execução rápida e segura em navegadores e ambientes de servidor.",
+    "subtitulo": "2017",
+    "link": "https://webassembly.org",
+    "tags": ["padrão", "performance", "web", "máquina virtual"]
+  },
+  {
+    "titulo": "Elixir",
+    "descricao": "Linguagem dinâmica e funcional, construída sobre a Erlang VM (BEAM), ideal para sistemas distribuídos e tolerantes a falhas.",
+    "subtitulo": "2012",
+    "link": "https://elixir-lang.org",
+    "tags": ["linguagem de programação", "funcional", "backend", "distribuído"]
+  },
+  {
+    "titulo": "Cloudflare Workers",
+    "descricao": "Plataforma de computação serverless baseada em edge, que permite executar código próximo ao usuário final para baixa latência.",
+    "subtitulo": "2017",
+    "link": "https://workers.cloudflare.com",
+    "tags": ["serverless", "edge computing", "Cloudflare", "FaaS"]
+  },
+  {
+    "titulo": "Deno",
+    "descricao": "Ambiente de execução seguro para TypeScript e JavaScript, criado como sucessor de Node.js, com foco em segurança e ES Modules.",
+    "subtitulo": "2018",
+    "link": "https://deno.com",
+    "tags": ["runtime", "backend", "TypeScript", "segurança"]
+  },
+  {
+    "titulo": "Zig",
+    "descricao": "Linguagem de programação de baixo nível, projetada para ser uma alternativa moderna ao C, com foco em controle e simplicidade.",
+    "subtitulo": "2016",
+    "link": "https://ziglang.org",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "baixo nível",
+      "performance"
+    ]
+  },
+  {
+    "titulo": "Scrum",
+    "descricao": "Estrutura ágil para gerenciamento de projetos e desenvolvimento de produtos complexos, baseada em ciclos curtos e inspeção constante.",
+    "subtitulo": "1990",
+    "link": "https://www.scrum.org",
+    "tags": ["metodologia", "ágeis", "gerenciamento", "desenvolvimento"]
+  }
+]

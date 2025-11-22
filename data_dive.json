@@ -1,0 +1,192 @@
+[
+  {
+    "titulo": "O Poderoso Chefão",
+    "descricao": "Obra-prima cinematográfica de Francis Ford Coppola que narra a história da família mafiosa Corleone em Nova York.",
+    "subtitulo": "1972",
+    "link": "https://www.imdb.com/title/tt0068646/",
+    "tags": ["Cinema", "Clássico", "Drama Criminal", "Trilogia"]
+  },
+  {
+    "titulo": "Game of Thrones",
+    "descricao": "Série de televisão baseada nos livros de George R. R. Martin, conhecida por suas reviravoltas políticas e elementos de fantasia épica.",
+    "subtitulo": "2011",
+    "link": "https://www.hbo.com/game-of-thrones",
+    "tags": ["Série de TV", "Fantasia Medieval", "Drama", "HBO"]
+  },
+  {
+    "titulo": "Dark Side of the Moon",
+    "descricao": "Oitavo álbum de estúdio da banda britânica Pink Floyd, aclamado por sua inovação sonora e temas filosóficos.",
+    "subtitulo": "1973",
+    "link": "https://www.pinkfloyd.com/",
+    "tags": [
+      "Álbum de Rock",
+      "Rock Progressivo",
+      "Música Clássica",
+      "Pink Floyd"
+    ]
+  },
+  {
+    "titulo": "Beyoncé",
+    "descricao": "Cantora, compositora e atriz americana, considerada uma das figuras mais influentes da música pop contemporânea.",
+    "subtitulo": "1981",
+    "link": "https://www.beyonce.com/",
+    "tags": ["Artista Pop", "R&B", "Performance", "Música"]
+  },
+  {
+    "titulo": "1984",
+    "descricao": "Romance distópico de George Orwell que introduziu conceitos como o Grande Irmão e a Polícia do Pensamento, criticando regimes totalitários.",
+    "subtitulo": "1949",
+    "link": "https://www.penguinrandomhouse.com/books/323386/1984-by-george-orwell/",
+    "tags": ["Livro", "Distopia", "Ficção Política", "Literatura Inglesa"]
+  },
+  {
+    "titulo": "A Viagem de Chihiro",
+    "descricao": "Filme de animação japonês escrito e dirigido por Hayao Miyazaki, vencedor do Oscar e produzido pelo Studio Ghibli.",
+    "subtitulo": "2001",
+    "link": "https://www.ghibli.jp/works/chihiro/",
+    "tags": ["Animação", "Studio Ghibli", "Fantasia", "Cinema Japonês"]
+  },
+  {
+    "titulo": "Queen",
+    "descricao": "Lendária banda de rock britânica conhecida por sua diversidade musical, teatralidade e o vocalista Freddie Mercury.",
+    "subtitulo": "1970",
+    "link": "https://www.queenonline.com/",
+    "tags": ["Banda de Rock", "Música", "Rock Clássico", "Performance de Palco"]
+  },
+  {
+    "titulo": "Stranger Things",
+    "descricao": "Série de ficção científica e terror que homenageia os filmes de suspense e aventura da década de 1980.",
+    "subtitulo": "2016",
+    "link": "https://www.netflix.com/title/80057281",
+    "tags": ["Série de TV", "Ficção Científica", "Terror", "Netflix"]
+  },
+  {
+    "titulo": "Hamilton",
+    "descricao": "Musical da Broadway que narra a vida do pai fundador americano Alexander Hamilton utilizando hip-hop, R&B e jazz.",
+    "subtitulo": "2015",
+    "link": "https://www.hamiltonmusical.com/",
+    "tags": ["Teatro Musical", "Broadway", "Hip-Hop", "Biografia"]
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "descricao": "Filme neo-noir de Quentin Tarantino, famoso por sua narrativa não-linear, diálogos estilizados e violência gráfica.",
+    "subtitulo": "1994",
+    "link": "https://www.miramax.com/movie/pulp-fiction/",
+    "tags": ["Cinema", "Cult", "Crime", "Tarantino"]
+  },
+  {
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "descricao": "Primeiro livro da série de fantasia de J.K. Rowling, apresentando o mundo mágico de Hogwarts.",
+    "subtitulo": "1997",
+    "link": "https://www.wizardingworld.com/",
+    "tags": ["Literatura Jovem", "Fantasia", "Livro", "Magia"]
+  },
+  {
+    "titulo": "Amy Winehouse",
+    "descricao": "Cantora e compositora britânica conhecida por sua voz profunda de contralto e a fusão de jazz, soul e R&B.",
+    "subtitulo": "2003",
+    "link": "https://www.amywinehouse.com/",
+    "tags": ["Cantora", "Soul", "Jazz", "Música"]
+  },
+  {
+    "titulo": "Breaking Bad",
+    "descricao": "Série aclamada que acompanha um professor de química que se volta para a produção e venda de metanfetamina após um diagnóstico de câncer.",
+    "subtitulo": "2008",
+    "link": "https://www.amc.com/shows/breaking-bad",
+    "tags": ["Série de TV", "Drama Criminal", "Suspense", "AMC"]
+  },
+  {
+    "titulo": "Mad Max: Estrada da Fúria",
+    "descricao": "Filme de ação pós-apocalíptico dirigido por George Miller, notável por suas sequências de perseguição práticas e design visual.",
+    "subtitulo": "2015",
+    "link": "https://www.warnerbros.com/movies/mad-max-fury-road",
+    "tags": [
+      "Cinema de Ação",
+      "Pós-apocalíptico",
+      "Ficção Científica",
+      "Blockbuster"
+    ]
+  },
+  {
+    "titulo": "Stephen King",
+    "descricao": "Autor americano prolifico, mestre do terror, ficção científica, suspense e fantasia, com mais de 60 romances publicados.",
+    "subtitulo": "1947",
+    "link": "https://stephenking.com/",
+    "tags": ["Escritor", "Terror", "Literatura", "Suspense"]
+  },
+  {
+    "titulo": "Nirvana",
+    "descricao": "Banda americana de rock que se tornou o ícone do movimento grunge do início dos anos 90, liderada por Kurt Cobain.",
+    "subtitulo": "1987",
+    "link": "https://www.nirvana.com/",
+    "tags": ["Banda Grunge", "Rock Alternativo", "Música", "Seattle Sound"]
+  },
+  {
+    "titulo": "Friends",
+    "descricao": "Uma das sitcoms mais populares de todos os tempos, focada na vida de seis amigos em seus 20 e 30 anos em Manhattan.",
+    "subtitulo": "1994",
+    "link": "https://www.hbo.com/friends",
+    "tags": ["Série de Comédia", "Sitcom", "Clássico Televisivo", "Cultura Pop"]
+  },
+  {
+    "titulo": "Cidade de Deus",
+    "descricao": "Filme brasileiro que retrata a violência e o crime organizado em uma favela do Rio de Janeiro ao longo de décadas.",
+    "subtitulo": "2002",
+    "link": "https://www.imdb.com/title/tt0317248/",
+    "tags": ["Cinema Nacional", "Drama Social", "Filme Brasileiro", "Crime"]
+  },
+  {
+    "titulo": "Tommy (The Who)",
+    "descricao": "Ópera rock conceitual da banda britânica The Who, que conta a história de um menino surdo, mudo e cego.",
+    "subtitulo": "1969",
+    "link": "https://www.thewho.com/",
+    "tags": ["Ópera Rock", "Álbum Conceitual", "Rock Clássico", "The Who"]
+  },
+  {
+    "titulo": "Duna",
+    "descricao": "Romance de ficção científica épico de Frank Herbert, ambientado em um futuro distante e focado na política interplanetária e ecologia.",
+    "subtitulo": "1965",
+    "link": "https://www.dunenovels.com/",
+    "tags": ["Livro", "Ficção Científica", "Literatura Épica", "Space Opera"]
+  },
+  {
+    "titulo": "Alfred Hitchcock",
+    "descricao": "Cineasta britânico, conhecido como o 'Mestre do Suspense' por sua técnica inovadora e capacidade de manipular a ansiedade do público.",
+    "subtitulo": "1899",
+    "link": "https://www.tcm.com/tcmdb/person/87865%7C27555/Alfred-Hitchcock/",
+    "tags": [
+      "Diretor de Cinema",
+      "Suspense",
+      "Clássico",
+      "Thriller Psicológico"
+    ]
+  },
+  {
+    "titulo": "The Last Dance",
+    "descricao": "Série documental que acompanha a temporada final de Michael Jordan com o Chicago Bulls, explorando sua carreira e legado.",
+    "subtitulo": "2020",
+    "link": "https://www.netflix.com/title/80203144",
+    "tags": ["Documentário", "Série de TV", "Esportes", "Basquete"]
+  },
+  {
+    "titulo": "To Pimp a Butterfly",
+    "descricao": "Terceiro álbum de estúdio de Kendrick Lamar, aclamado pela crítica por sua complexidade lírica, jazz e temas sociais.",
+    "subtitulo": "2015",
+    "link": "https://www.kendricklamar.com/",
+    "tags": ["Hip-Hop", "Álbum de Estúdio", "Rap", "Música"]
+  },
+  {
+    "titulo": "Romeu e Julieta",
+    "descricao": "Tragédia de William Shakespeare sobre o amor proibido de dois jovens cujas famílias são inimigas mortais em Verona.",
+    "subtitulo": "1597",
+    "link": "https://www.rsc.org.uk/romeo-and-juliet/",
+    "tags": ["Teatro", "Clássico", "Tragédia", "Literatura Dramática"]
+  },
+  {
+    "titulo": "O Cavaleiro das Trevas",
+    "descricao": "Segundo filme da trilogia Batman de Christopher Nolan, notável pela performance do Coringa por Heath Ledger e seu tom sombrio.",
+    "subtitulo": "2008",
+    "link": "https://www.warnerbros.com/movies/dark-knight",
+    "tags": ["Cinema", "Super-Herói", "Ação", "Thriller"]
+  }
+]

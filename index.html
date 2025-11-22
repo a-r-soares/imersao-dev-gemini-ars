@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Imersão Dev com Gemini - Alura</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="header-top">
+        <h1>Base de Conhecimento</h1>
+        <select id="tema-select">
+          <option value="info">Tecnologia</option>
+          <option value="espo">Esporte</option>
+          <option value="dive">Diversão</option>
+        </select>
+        <div class="theme-switch-container">
+          <span class="theme-label"></span>
+          <label class="theme-switch">
+            <input type="checkbox" id="theme-toggle" />
+            <span class="slider"></span>
+          </label>
+        </div>
+      </div>
+      <div class="header-search">
+        <input type="text" id="campo-busca" placeholder="Pesquisar..." />
+        <button id="botao-busca">Buscar</button>
+      </div>
+    </header>
+
+    <main>
+      <div id="card-container" class="card-container">
+        <!-- Cards serão inseridos aqui via JavaScript -->
+      </div>
+      <p
+        id="mensagem-nao-encontrado"
+        class="mensagem-nao-encontrado"
+        style="display: none"
+      >
+        Nenhum resultado encontrado.
+      </p>
+    </main>
+
+    <footer class="footer">
+      <ul class="footer-links">
+        <li><a href="#">Privacidade</a></li>
+        <li><a href="#">Termos</a></li>
+        <li><a href="#">Configurações</a></li>
+      </ul>
+      <p>Brasil - <span id="ano-atual"></span></p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

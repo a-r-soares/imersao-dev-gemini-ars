@@ -1,0 +1,182 @@
+[
+  {
+    "titulo": "Michael Phelps",
+    "descricao": "O atleta olímpico mais condecorado de todos os tempos, conhecido como o 'Bala de Baltimore', com 28 medalhas olímpicas.",
+    "subtitulo": "1985",
+    "link": "https://www.worldaquatics.com/athletes/1040431/michael-phelps",
+    "tags": ["Natação", "Olimpíadas", "Atleta Recordista", "Estados Unidos"]
+  },
+  {
+    "titulo": "Tour de France",
+    "descricao": "A mais prestigiada corrida de ciclismo de estrada do mundo, realizada anualmente em julho, predominantemente na França.",
+    "subtitulo": "1903",
+    "link": "https://www.letour.fr/en/",
+    "tags": ["Ciclismo", "Evento Anual", "Endurance", "França"]
+  },
+  {
+    "titulo": "Ayrton Senna",
+    "descricao": "Lenda do automobilismo brasileiro e tricampeão mundial de Fórmula 1, reverenciado por sua habilidade na chuva.",
+    "subtitulo": "1960",
+    "link": "https://www.formula1.com/en/drivers/ayrton-senna.html",
+    "tags": ["Automobilismo", "Fórmula 1", "Brasil", "Lenda"]
+  },
+  {
+    "titulo": "Regra do Impedimento",
+    "descricao": "Princípio fundamental do futebol que impede um jogador de receber a bola se estiver posicionado além do penúltimo defensor adversário no momento do passe.",
+    "subtitulo": "1863",
+    "link": "https://www.fifa.com/legal/football-regulatory/laws-of-the-game",
+    "tags": ["Futebol", "Regulamento", "Estratégia", "Conceito"]
+  },
+  {
+    "titulo": "Super Bowl",
+    "descricao": "A final do campeonato da National Football League (NFL) dos Estados Unidos, um dos eventos esportivos mais assistidos globalmente.",
+    "subtitulo": "1967",
+    "link": "https://www.nfl.com/super-bowl/",
+    "tags": ["Futebol Americano", "NFL", "Evento Final", "Entretenimento"]
+  },
+  {
+    "titulo": "Yelena Isinbayeva",
+    "descricao": "Atleta russa de salto com vara, considerada a maior saltadora da história, que quebrou o recorde mundial 28 vezes.",
+    "subtitulo": "1982",
+    "link": "https://worldathletics.org/athletes/russia/yelena-isinbayeva-14282367",
+    "tags": ["Atletismo", "Salto com Vara", "Recordista", "Rússia"]
+  },
+  {
+    "titulo": "Boston Celtics",
+    "descricao": "Uma das franquias mais bem-sucedidas da história da NBA, detentora de múltiplos títulos e rival histórica dos Los Angeles Lakers.",
+    "subtitulo": "1946",
+    "link": "https://www.nba.com/celtics/",
+    "tags": ["Basquete", "NBA", "Time Histórico", "Estados Unidos"]
+  },
+  {
+    "titulo": "Maratona de Atenas",
+    "descricao": "Corrida de longa distância baseada na lenda do mensageiro grego Fidípedes, com a distância moderna de 42,195 km estabelecida em 1908.",
+    "subtitulo": "1896",
+    "link": "https://www.athensauthenticmarathon.gr/",
+    "tags": ["Atletismo", "Corrida de Rua", "Grécia", "Resistência"]
+  },
+  {
+    "titulo": "Rugby Sevens",
+    "descricao": "Variação do Rugby Union jogada com apenas sete jogadores por equipe e partidas de curta duração, popularizada em eventos multi-esportivos.",
+    "subtitulo": "1883",
+    "link": "https://www.world.rugby/sevens",
+    "tags": ["Rugby", "Modalidade", "Velocidade", "Olimpíadas"]
+  },
+  {
+    "titulo": "Esgrima",
+    "descricao": "Arte marcial e esporte olímpico que consiste em duelo com espadas (florete, sabre ou espada) seguindo regras rígidas de toque.",
+    "subtitulo": "1896",
+    "link": "https://fie.org/",
+    "tags": ["Esporte de Combate", "Olimpíadas", "Técnica", "Florete"]
+  },
+  {
+    "titulo": "Jesse Owens",
+    "descricao": "Atleta americano que ganhou quatro medalhas de ouro nos Jogos Olímpicos de Berlim em 1936, desafiando a propaganda nazista.",
+    "subtitulo": "1913",
+    "link": "https://worldathletics.org/athletes/united-states/jesse-owens-14336021",
+    "tags": ["Atletismo", "Olimpíadas", "História", "Salto em Distância"]
+  },
+  {
+    "titulo": "Jogos Paralímpicos",
+    "descricao": "Principal evento multiesportivo internacional para atletas com deficiências físicas, sensoriais e intelectuais.",
+    "subtitulo": "1960",
+    "link": "https://www.paralympic.org/",
+    "tags": ["Esporte Adaptado", "Evento Global", "Inclusão", "Roma"]
+  },
+  {
+    "titulo": "Pelota Basca",
+    "descricao": "Nome genérico para uma variedade de esportes jogados com uma bola contra uma parede, originário do País Basco.",
+    "subtitulo": "Século XIII",
+    "link": "https://www.fipv.net/",
+    "tags": ["Esporte de Raquete", "Tradição", "Espanha", "França"]
+  },
+  {
+    "titulo": "Wayne Gretzky",
+    "descricao": "Apelidado de 'The Great One', o jogador de hóquei no gelo canadense é amplamente considerado o maior da história da NHL.",
+    "subtitulo": "1961",
+    "link": "https://www.nhl.com/player/wayne-gretzky-8447400",
+    "tags": ["Hóquei no Gelo", "NHL", "Canadá", "Lenda"]
+  },
+  {
+    "titulo": "Copa Stanley",
+    "descricao": "O troféu de campeonato mais antigo do esporte profissional norte-americano, concedido ao vencedor dos playoffs da NHL.",
+    "subtitulo": "1893",
+    "link": "https://records.nhl.com/stanley-cup/trophy",
+    "tags": ["Hóquei no Gelo", "Troféu", "Tradição", "NHL"]
+  },
+  {
+    "titulo": "Críquete T20",
+    "descricao": "Formato de críquete de curta duração (Twenty20), onde cada time tem 20 'overs', impulsionando a popularidade global do esporte.",
+    "subtitulo": "2003",
+    "link": "https://www.icc-cricket.com/t20-world-cup",
+    "tags": ["Críquete", "Formato Rápido", "Internacional", "Ásia"]
+  },
+  {
+    "titulo": "Estádio de Wembley",
+    "descricao": "Estádio nacional de futebol da Inglaterra, reconstruído em 2007, sendo palco principal da FA Cup e jogos da seleção inglesa.",
+    "subtitulo": "2007",
+    "link": "https://www.wembleystadium.com/",
+    "tags": ["Futebol", "Arena Esportiva", "Reino Unido", "FA Cup"]
+  },
+  {
+    "titulo": "Ronda Rousey",
+    "descricao": "Primeira mulher a assinar com o UFC e ex-campeã de peso galo, pioneira feminina no MMA e medalhista olímpica de judô.",
+    "subtitulo": "1987",
+    "link": "https://www.ufc.com/athlete/ronda-rousey",
+    "tags": ["MMA", "Judô", "UFC", "Pioneira"]
+  },
+  {
+    "titulo": "Xadrez",
+    "descricao": "Esporte mental e jogo de estratégia jogado entre dois adversários, reconhecido pelo Comitê Olímpico Internacional (COI).",
+    "subtitulo": "Século XV",
+    "link": "https://www.fide.com/",
+    "tags": [
+      "Esporte Mental",
+      "Estratégia",
+      "Reconhecido pelo COI",
+      "Raciocínio"
+    ]
+  },
+  {
+    "titulo": "Volta Olímpica",
+    "descricao": "Tradição em diversos esportes, especialmente no futebol, onde o time vencedor caminha ao redor do campo para saudar os torcedores.",
+    "subtitulo": "Século XX",
+    "link": "https://olympics.com/en/",
+    "tags": ["Tradição Esportiva", "Celebração", "Futebol", "Conceito"]
+  },
+  {
+    "titulo": "Equipe Dream Team 1992",
+    "descricao": "Apelido dado à equipe masculina de basquete dos EUA que competiu nas Olimpíadas de Barcelona, a primeira com jogadores ativos da NBA.",
+    "subtitulo": "1992",
+    "link": "https://www.fiba.basketball/hall-of-fame/The-Dream-Team",
+    "tags": ["Basquete", "Olimpíadas", "NBA", "Time Lendário"]
+  },
+  {
+    "titulo": "Taekwondo",
+    "descricao": "Arte marcial coreana caracterizada pelo uso de técnicas de chutes altos e saltos, sendo um esporte olímpico oficial.",
+    "subtitulo": "1955",
+    "link": "https://www.worldtaekwondo.org/",
+    "tags": ["Arte Marcial", "Coreia", "Esporte de Combate", "Olimpíadas"]
+  },
+  {
+    "titulo": "Decatlo",
+    "descricao": "Prova combinada do atletismo masculino, composta por dez eventos distintos realizados em dois dias consecutivos, testando a versatilidade.",
+    "subtitulo": "1912",
+    "link": "https://worldathletics.org/",
+    "tags": ["Atletismo", "Multieventos", "Olimpíadas", "Resistência"]
+  },
+  {
+    "titulo": "Campeonato Mundial de Surfe",
+    "descricao": "Série anual de eventos de surfe profissional que determina os campeões mundiais masculino e feminino (atual WSL Championship Tour).",
+    "subtitulo": "1976",
+    "link": "https://www.worldsurfleague.com/",
+    "tags": ["Surfe", "Esporte Radical", "Tour", "Oceano"]
+  },
+  {
+    "titulo": "Nadia Comăneci",
+    "descricao": "Ginasta romena que, aos 14 anos, se tornou a primeira a receber uma nota perfeita (10.0) na história olímpica moderna, em Montreal 1976.",
+    "subtitulo": "1961",
+    "link": "https://www.olympics.com/en/athletes/nadia-comaneci",
+    "tags": ["Ginástica Artística", "Romênia", "Nota 10", "Olimpíadas"]
+  }
+]
