@@ -37,11 +37,15 @@ A estrutura de arquivos do projeto está organizada da seguinte forma:
 
 Para visualizar o projeto em seu navegador, siga os passos abaixo:
 
+Opção 1:
+1.  Clique neste link <https://a-r-soares.github.io/imersao-dev-gemini-ars/>
+
+Opção 2:
 1.  Clone ou faça o download deste repositório em sua máquina local.
 2.  Navegue até a pasta raiz do projeto.
 3.  Abra o arquivo `index.html` diretamente em seu navegador de preferência (como Google Chrome, Firefox ou Microsoft Edge).
 
-E pronto! Os cards serão carregados e exibidos na tela.
+E pronto! Selecione o tema, digite o termo a ser encontrado e os cards serão carregados e exibidos na tela.
 
 ---
 
