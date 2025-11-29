@@ -86,8 +86,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function realizarBusca() {
     const termoBusca = campoBusca.value.trim().toLowerCase();
 
-    if (termoBusca.length < 2) {
-      alert("Por favor, digite no mínimo 2 caracteres para realizar a busca.");
+    if (termoBusca.length === 0) {
+      alert("Por favor, digite algo para realizar a busca.");
       return;
     }
 
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // --- EVENT LISTENERS ---
   temaSelect.addEventListener("change", (e) => {
     campoBusca.value = ""; // Limpa o campo de busca ao trocar de tema
-    carregarDados(e.target.value);
+    carregarDados(e.target.value, true); // Exibe os cards do novo tema imediatamente
   });
 
   botaoBusca.addEventListener("click", realizarBusca);
@@ -121,16 +121,16 @@ document.addEventListener("DOMContentLoaded", () => {
       realizarBusca();
     } else {
       // Busca dinâmica a cada caractere digitado (após o primeiro)
-      if (campoBusca.value.trim().length >= 2) {
+      if (campoBusca.value.trim().length >= 1) {
         realizarBusca();
       } else if (campoBusca.value.trim().length === 0) {
-        // Limpa os resultados se o campo for esvaziado
-        exibirCards([]);
+        // Repõe todos os cards do tema atual se a busca for limpa
+        exibirCards(currentData);
       }
     }
   });
 
   // --- INICIALIZAÇÃO ---
-  carregarDados(temaSelect.value);
+  carregarDados(temaSelect.value, true); // O 'true' força a exibição dos cards iniciais
   atualizarAno();
 });
